@@ -1,0 +1,71 @@
+Login here: https://192.168.1.1/admin.html
+Username: adminpldt
+`Password 1: 1234567890
+`Password 2: AC2DIU7QW3ERTY6UPAS4DFG
+AC2DIU7QW3ERTY6UPAS4DFG@1234
+Make sure that when you copy/paste the details, there's no "space" at the end. Because that's usually the issue, that's why the password doesn't work.
+This worked for me.
+
+ZTE HG8145X6-10
+set upport mode 3 upportid 0x00000001
+reset
+PLDThome1
+Admin@123
+Admin@pldt123
+Adminpldt123
+Pisowifi 4G ext
+Pisowifi 5G ext
+
+F6600P
+URL: https://192.168.1.1/PLDTadminLogin Username: adminpldt Password: HL1EU9804BKjTa6734uP370
+HG6145F1 
+https://192.168.1.1/fh
+Username: adminpldt Password: Mj5UI3OPr9vYq8bCxl1rV50E
+
+
+PGN6401V login
+default login:
+https://192.168.1.1/admin/pldt.asp
+Username: adminpldt
+Password: 8d32f84964abbc7a6097@43
+AP Mode Config
+https://www.mediafire.com/file/om2ojugwv1tuj8q/PGN6401V.bin/file
+new login
+Username: adminpldt
+Password: Admin@pldt123
+
+
+
+PLDT SUPER ADMIN
+
+https://192.168.1.1/fh
+OR
+http://192.168.1.1/fh
+
+pldt modem, ito ung defualt pass.
+HG6245D  adminpldt
+z6dUABtl270qRxt7a2uGTiw / Mj5UI3OPr9vYq8bCxl1rV50E
+
+Globe HG6425D
+https://www.mediafire.com/file/s994276fg087vbn/cfg_backup.config/file
+Go to ip address
+username : admin
+Password: 3UJUh2VemEfUtesEchEC2d2e
+
+latest version
+Go to ip address
+Username: superadmin
+Password: s)g_U+l|o{u@bzo2i081oe!
+
+Go to security
+- click port isolation
+- disable port isolation
+( Mag se session timeout sya. Pero pwede mo unahin off dhcp bago idisable ang port isolation )
+
+Login again to admin ( not user )
+- go to network
+Click lan settings
+
+- off dhcp
+
+Done.
